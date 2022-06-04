@@ -1,7 +1,5 @@
 // SPDX-License-Identifier: MIT
-
-// Smart contract that creates mints a simple NFTs based on an image
-
+// Smart contract that creates a simple NFTs based on an on-chain stored metadata image
 pragma solidity ^0.8.1;
 
 // We first import some OpenZeppelin Contracts.
